@@ -10,11 +10,13 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: Python Flask
 Database: MongoDB
 AI Integration: Leveraging machine learning for smart solutions
+
 🌟 Highlighted Projects
 
 RentFindr: A streamlined platform to help users discover rental properties with ease.
 Weather Dashboard: A real-time weather app powered by API integration.
 Bio-Lubricant AI: An innovative tool that recommends sustainable lubricants using AI, promoting eco-friendly practices.
+
 🤝 Experience
 
 Student Placement Coordinator: Facilitating effective communication between students and faculty for placement drives.
