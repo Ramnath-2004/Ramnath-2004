@@ -1,4 +1,4 @@
--👋 Hello! I'm Ramnath S.
+👋 Hello! I'm Ramnath S.
 
 🎓 Mechanical Engineering Graduate | Aspiring Tech Innovator
 Currently pursuing a B.E. in Mechanical Engineering at SNS College of Engineering, Coimbatore, with a stellar CGPA of 9.32. My journey bridges the gap between traditional engineering and the digital world, with a passion for building impactful, sustainable solutions.
