@@ -40,5 +40,5 @@ My latest project is a testament to my commitment to a greener future, integrati
 I'm always eager to connect with like-minded individuals and explore opportunities to innovate. Feel free to explore my repositories and reach out!
 
 📫 Contact Me
-LinkedIn: [(https://www.linkedin.com/in/ramnath-s-/)]
+LinkedIn: [https://www.linkedin.com/in/ramnath-s-/]
 
